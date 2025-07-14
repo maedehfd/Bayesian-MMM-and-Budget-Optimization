@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+lightweight_mmm
+numpyro
+jax
+pandas_gbq
