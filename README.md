@@ -21,6 +21,7 @@ Clone the repository and install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 
 This notebook was developed as part of a thesis project on Bayesian MMM and data-driven budget allocation strategies.
