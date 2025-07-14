@@ -9,6 +9,11 @@ This repository contains a Jupyter Notebook that performs Bayesian Marketing Mix
 - Visualization of media contributions and diminishing returns
 - Budget optimization for maximum ROI
 
+## Dataset
+
+The dataset used in this notebook is sourced from Kaggle:
+[MMM Demo Dataset by Matt Walentosky](https://www.kaggle.com/datasets/mattwalentosky/mmmdemodataset)
+
 ## Setup
 
 ### Prerequisites
