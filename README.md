@@ -6,8 +6,9 @@ This repository contains a Jupyter Notebook that performs Bayesian Marketing Mix
 
 - Bayesian modeling using `lightweight_mmm`
 - Model fitting with media spend
-- Visualization of media contributions and diminishing returns
-- Budget optimization for maximum ROI
+- Visualization of media contributions
+- Visualization on prior and posteriors of model parameters
+- Budget optimization
 
 ## Dataset
 
